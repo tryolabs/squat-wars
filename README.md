@@ -4,6 +4,10 @@
 
 Tryolabs demo featured at [Khipu 2023](https://khipu.ai/) consisting of a squat counter game running on a Raspberry Pi 4 together with a Coral TPU. The initial code was based on a [TensorFlow Lite pose estimation](https://github.com/tensorflow/examples/tree/master/lite/examples/pose_estimation/raspberry_pi) example.
 
+## Preview
+
+https://user-images.githubusercontent.com/29715691/225156688-2263248d-8c19-476b-b013-176d1b09b1ad.mp4
+
 ## How to Install
 
 1. Clone the repository
