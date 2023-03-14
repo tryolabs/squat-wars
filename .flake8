@@ -1,0 +1,13 @@
+[flake8]
+max-line-length = 100
+per-file-ignores = __init__.py:F401
+exclude = .venv
+ignore =
+    # disable "too many leading '#' for block comment"
+    E266,
+    # disable "line break before binary operator" which clashes with black
+    W503,
+    # disable "invalid escape sequence"
+    W605,
+    # disable "whitespace before ':'" which clashes with black
+    E203
