@@ -1,12 +1,12 @@
 <p align="center">
-  <img src="logo.png" alt="Squat Wars"/>
+  <img alt="Squat Wars" src="https://user-images.githubusercontent.com/29715691/225422820-c305c46a-2432-4f2b-a504-3c94eb516637.png">
 </p>
 
 Tryolabs demo featured at [Khipu 2023](https://khipu.ai/) consisting of a squat counter game running on a Raspberry Pi 4 together with a Coral TPU. The initial code was based on a [TensorFlow Lite pose estimation](https://github.com/tensorflow/examples/tree/master/lite/examples/pose_estimation/raspberry_pi) example.
 
 ## Preview
 
-https://user-images.githubusercontent.com/29715691/225156688-2263248d-8c19-476b-b013-176d1b09b1ad.mp4
+https://user-images.githubusercontent.com/29715691/226709243-5735429c-86dd-4bd3-b9cf-72c8bdd5c825.mp4
 
 ## How to Install
 
